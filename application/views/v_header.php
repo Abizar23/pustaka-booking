@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
- <meta charset=”utf-8”>
+ <meta charset="utf-8">
  <title>Web Prog II | Merancang Template sederhana dengan codeigniter</title>
- <link rel="stylesheet" type="text/css" href="http://localhost/pustaka-booking2/assets/css/stylebuku.css"></head>
- <body>
- <div id=”wrapper”>
+ <link rel="stylesheet" type="text/css" href="<?php echo base_url()?>assets/css/stylebuku.css"><body>
+ <div id="wrapper">
  <header>
  <hgroup>
  <h1>RentalBuku.net</h1>
